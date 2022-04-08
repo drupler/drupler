@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rajeev Kumar</h1>
-<h3 align="center">A web end engineer, mostly working with keeping Drupal in center of my architecture</h3>
+<h3 align="center">A web end engineer, building web keeping Drupal in center of all of my architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drupler&label=Profile%20views&color=0e75b6&style=flat" alt="Rajeev Kumar" /> </p>
 
